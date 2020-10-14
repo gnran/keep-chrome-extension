@@ -20,4 +20,4 @@ To install extension:
 
 Now you can click on Extensions icon at the top right corner and pin it to your extensions panel
 
-You can easily add your own links or change existing ones by adding/changing `<a>` tag in `index.html` file
+You can easily add your own links or change existing ones by changing `a` tag in `index.html` file
